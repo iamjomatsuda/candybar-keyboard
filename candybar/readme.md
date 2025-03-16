@@ -1,9 +1,8 @@
 # handwired/candybar
 
+![handwired/candybar](imgur.com image replace me!)
 
-Basically a ripoff of the ScottoCMD
-
-No picture cause I can't be bothered
+*First board might suck*
 
 * Keyboard Maintainer: [Jo Matsuda](https://github.com/iamjomatsuda)
 * Hardware Supported: Promicro ATmega32u4 or whatever
